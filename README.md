@@ -27,3 +27,4 @@ The Bonferroni test ensures that the p value for each test must be equal to its 
  #### 4. Local Moran's I:
 Local Moran's I endeavours to find local clusters and outliers from heterogeneous spatial objects to offer insight into how spatial processes proliferate at local levels. The test results distinguish clusters by decomposing the Global Moran’s I statistics into the contributions localised statistics that reflect the contribution of each spatial object in the sample (Haworth, 2018).
 
+
